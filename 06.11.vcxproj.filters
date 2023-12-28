@@ -7,5 +7,6 @@
     <ClCompile Include="lab4.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="main2.cpp" />
+    <ClCompile Include="main3.cpp" />
   </ItemGroup>
 </Project>
