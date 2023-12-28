@@ -23,6 +23,7 @@
     <ClCompile Include="lab2.cpp" />
     <ClCompile Include="lab3.cpp" />
     <ClCompile Include="lab4.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
